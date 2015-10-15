@@ -6,5 +6,5 @@ Project/*
 */HW*.pdf
 !*/HW*_Solution.pdf
 
-*/Tutorial*.pdf
+*/Tutorial**.pdf
 
